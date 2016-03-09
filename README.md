@@ -4,7 +4,7 @@ a C++ program to compute qusai-conformal map from beltrami equation: https://en.
 - 10/3/2016 Updated.
 
 Notes:
-1. To use the program, please compile it by typing "make" in terminal.
+1. Type "make" in terminal to  compile the program.
 2. "example" folder contains sample files and lbs executable for demonstration.
 
 Remarks:
