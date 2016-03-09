@@ -1,8 +1,6 @@
-|______________________________________
-|                                      |
-| Q-Fibra: linear beltrami solver 1.0  |
-|______________________________________|
-                                       |
+
+# Q-Fibra: linear beltrami solver 1.0  
+
 - 10/3/2016 Updated.
 
 Notes:
