@@ -9,3 +9,4 @@ Notes:
 
 Remarks:
 Compile it in netbean if you encounter any problems.
+If you have any problems of my code, please send email to me: yungchunpang(AT)gmail.com
