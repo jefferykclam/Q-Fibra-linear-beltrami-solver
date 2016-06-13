@@ -8,7 +8,7 @@ last update - 2016/6/13
 
 ## Demonstration
 <p>
-<img src="https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/demo/mesh.png" width="400"><img src="https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/demo/mesh_result.png" width="400"> 
+<img src="https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/demo/mesh.png" width="400"><img src="https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/demo/mesh_result.png" width="800"> 
 
 ## Remarks
 If you have any problems of my code, please send email to me: yungchunpang(AT)gmail.com
