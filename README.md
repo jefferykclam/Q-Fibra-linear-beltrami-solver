@@ -8,6 +8,7 @@ last update - 2016/6/13
 
 ## Demonstration
 domain is twisted by custom mu setting.
+<p>
 <img src="https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/demo/mesh.png" height="300"><img src="https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/demo/mesh_result.png" height="300"> 
 
 ## Reference
