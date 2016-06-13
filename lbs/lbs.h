@@ -1,3 +1,4 @@
+// fix error in old algorithm
 #ifndef LBS_H
 #define LBS_H
 
