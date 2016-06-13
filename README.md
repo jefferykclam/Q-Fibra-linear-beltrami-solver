@@ -4,7 +4,7 @@ a c++ program to compute qusai-conformal map from beltrami equation: https://en.
 last update - 2016/6/13
 
 ## Notes
-- "example" folder contains sample files and lbs executable for demonstration.
+"example" folder contains sample files and lbs executable for demonstration.
 
 ## Remarks
 If you have any problems of my code, please send email to me: yungchunpang(AT)gmail.com
