@@ -7,7 +7,7 @@ last update - 2016/6/13
 "example" folder contains sample files and lbs executable for demonstration.
 
 ## Demonstration
-<img src="https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/demo/mesh.png" height="300"><img src="https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/demo/arrow.png" height="300"><img src="https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/demo/mesh_result.png" height="300"> 
+<img src="https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/demo/mesh.png" height="300"><img src="https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/demo/arrow.png" width="5"><img src="https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/demo/mesh_result.png" height="300"> 
 
 ## Reference
 https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/lbs.pdf
