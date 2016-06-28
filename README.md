@@ -14,8 +14,5 @@ domain is twisted by custom setting of μ(domain).
 ## Reference
 https://github.com/Edward-Yung/Q-Fibra-linear-beltrami-solver/blob/master/lbs.pdf
 
-## Remarks
-If you have any problems of my code, please send email to me: yungchunpang(AT)gmail.com
-
 ## License 
 The content of this project itself is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) 
