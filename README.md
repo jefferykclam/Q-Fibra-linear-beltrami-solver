@@ -1,5 +1,5 @@
 
-## Q-Fibra: linear beltrami solver 
+# Q-Fibra: linear beltrami solver 
 a c++ program to compute qusai-conformal map from beltrami equation: https://en.wikipedia.org/wiki/Beltrami_equation
 last update - 2016/6/13
 
